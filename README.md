@@ -1,7 +1,3 @@
-
-
-https://github.com/YuriAz/next-portfolio/assets/86689137/f8414f8d-c634-4b05-9074-ca9ad4ab5e93
-
 # Next Portfolio
 
 A complete Next Professional Portfolio with everything you need to show your skills.
